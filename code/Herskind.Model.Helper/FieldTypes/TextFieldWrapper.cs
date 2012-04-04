@@ -13,7 +13,7 @@ namespace Herskind.Model.Helper.FieldTypes
         {
         }
 
-        public string Render(int lenght, string elipsis)
+        public string Render(int length, string elipsis)
         {
             throw new NotImplementedException();
         }

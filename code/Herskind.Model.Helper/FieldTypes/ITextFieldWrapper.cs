@@ -7,6 +7,6 @@ namespace Herskind.Model.Helper.FieldTypes
 {
     public interface ITextFieldWrapper : IFieldWrapper
     {
-        string Render(int lenght, string elipsis);
+        string Render(int length, string elipsis);
     }
 }
